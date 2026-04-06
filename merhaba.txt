@@ -1,3 +1,2 @@
 print("Merhaba Dünya);
 print("Nasılsın");
-print("bugün hava nasıl");
